@@ -38,6 +38,16 @@ A B C D
 #### Q4. Dijkstra’s algorithm
 To Run:
 ```bash
+javac Dijkstra.java
+java Dijkstra
+```
+Output:
+```
+Shortest path: [A, B, C]
+```
+#### Q5. Prims’s algorithm
+To Run:
+```bash
 javac Prims.java
 java Prims
 ```
